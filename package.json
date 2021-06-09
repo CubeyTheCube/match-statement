@@ -1,0 +1,15 @@
+{
+  "name": "match-statement",
+  "version": "1.0.0",
+  "description": "A functional and declarative alternative to JavaScript's native switch statement.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "match", "switch", "functional"
+  ],
+  "author": "CubeyTheCube",
+  "license": "MIT"
+}
