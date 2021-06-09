@@ -7,9 +7,17 @@
   "scripts": {
     "test": "node test/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CubeyTheCube/match-statement.git"
+  },
   "keywords": [
     "match", "switch", "functional"
   ],
   "author": "CubeyTheCube",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CubeyTheCube/match-statement/issues"
+  },
+  "homepage": "https://github.com/CubeyTheCube/match-statement"
 }
